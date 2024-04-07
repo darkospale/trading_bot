@@ -1,0 +1,9 @@
+freqtrade backtesting --strategy <SampleStrategy> -i <time>
+freqtrade trade --strategy <SampleStrategy>
+freqtrade download-data --pairs ETH/BTC --days 5 -t 1h
+freqtrade download-data --days 5 -t 1h (--timerange YMD(-YMD))
+freqtrade list-data
+freqtrade plot-dataframe --strategy SampleStrategy -p DOGE/USDT -i 1d --no-trades
+freqtrade new-strategy --strategy <NAME>
+freqtrade backtesting --datadir user_data/data/binance --export trades --stake-amount 25 -s BBandsRSI -i 15m
+freqtrade hyperopt --hyperopt BBRSIHyperopt --hyperopt-loss SharpeHyperOptLoss --strategy BBandsRSI -i 15m
