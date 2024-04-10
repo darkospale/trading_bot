@@ -161,3 +161,8 @@ cython_debug/
 
 user_data/backtest_results/
 user_data/data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+/.idea
+.env

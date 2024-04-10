@@ -34,8 +34,8 @@
     },
     "exchange": {
         "name": "binance",
-        "key": "FOewvLbcbhzOyvqQOsFB2qVFsKYA4WpkQ31wPMB5cYHoMgXRFq0Tcnw91k7MbiA5",
-        "secret": "ZyUY0lLEuqevpBzs6brJnhuMbduYUnnK3k3LNhMWvLVf8sfwgxpSE59zrwWqV59M",
+        "key": "<>",
+        "secret": "<>",
         "ccxt_config": {},
         "ccxt_async_config": {},
         "pair_whitelist": [
@@ -92,8 +92,8 @@
     ],
     "telegram": {
         "enabled": true,
-        "token": "5883538382:AAGon_ph6c1RcU8fyIiKxA6ssiOkYYVCTwM",
-        "chat_id": "5011989847"
+        "token": "<>",
+        "chat_id": "<>"
     },
     "api_server": {
         "enabled": true,
@@ -101,11 +101,11 @@
         "listen_port": 8080,
         "verbosity": "error",
         "enable_openapi": false,
-        "jwt_secret_key": "f0d75e6dd4060b7abaed37680634420c599515b85e4ec90b89af8db625ac598d",
-        "ws_token": "LbKB8WXbFkPyWrr_aEWoe5OJKBjPBxA5Yg",
+        "jwt_secret_key": "<>",
+        "ws_token": "<>",
         "CORS_origins": [],
-        "username": "darko",
-        "password": "darko123"
+        "username": "<>",
+        "password": "<>"
     },
     "bot_name": "freqtrade",
     "initial_state": "running",
