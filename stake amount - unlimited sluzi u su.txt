@@ -1,5 +1,0 @@
-stake amount - unlimited sluzi u sustini za runovanje u testu
-dry_run_wallet - ono sto imamo ( ovo se deli sa max open trades)
-ROI - return of investment ( kada da se proda ) - "minuti" => "profit"
-	Znaci npr ako posle 1h imamo profit od 1%, prodaj
-stoploss - kada da proda ako smo na gubitku
